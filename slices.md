@@ -1,6 +1,3 @@
----
-
-
 ## Slices work on sequences
 
 A **sequence** is an ordered collection of items where each item has a unique index. Common sequence types:
